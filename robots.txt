@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aifofipiex.arendseauto.nl/sitemap.xml
